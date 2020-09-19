@@ -5,6 +5,8 @@
 
 body, html{
     overflow-x: hidden;
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,900&family=Sawarabi+Gothic&display=swap"
+        rel="stylesheet">
 }
 
 .overlay{
